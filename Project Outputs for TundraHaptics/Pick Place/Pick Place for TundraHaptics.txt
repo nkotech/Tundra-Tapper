@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+C:\Users\Nathan\Documents\Altium\TundraHaptics\Project Outputs for TundraHaptics\Pick Place\Pick Place for TundraHaptics.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/09/24
+Time:       22:59
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description    
+J2         "Haptic Pads"      TopLayer HAPTIC_PADS      354.331       826.772       0        ""             
+J1         "Haptic Pads"      TopLayer HAPTIC_PADS      1338.583      826.772       0        ""             
+R1         51R                TopLayer RESC3116X65N     433.071       610.000       90       "51R Resistor" 
+R2         10k                TopLayer RESC1608X55N     1125.000      95.000        270      Resistor       
+Q1         "N Channel Mosfet" TopLayer SOT95P237X112-3N 1250.000      95.000        0        Mosfet         
+J3         AYF332535          TopLayer AYF332535        846.457       78.740        0        Connector      
+D1         M4                 TopLayer DIOM5327X240N    1475.000      165.000       0        Diode          
+C2         1uF                TopLayer CAPC2012X140N    1290.000      235.000       90       Capacitor      
+C1         1uF                TopLayer CAPC2012X140N    1210.000      235.000       90       Capacitor      

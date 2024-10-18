@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [TundraHaptics.PcbDoc]
+   Generated File[Pick Place for TundraHaptics.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:59:37 PM On 9/9/2024
